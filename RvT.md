@@ -3,6 +3,7 @@
 **Goal**
 
 to understand RvT, i need to understand the AC resistance bridge and the type of measurement performed
+think about what i can add in my masters report
 
 todo:
 - look in white notebook for questions to answer
@@ -18,8 +19,15 @@ tentative plan:
 4. impedance, input/output impedance
 5. lock-in amplifier
 
+later:
+- for practical considerations of RvT, see "measurement, instrumentation and sensors" book
+
 **Questions**
 - whats the difference between the amplification in a lock-in amplifier and an amplifier?
-- 
+- whats a linear network?
 
-
+- what does thenevin thm says?
+- whats its physical meaning 
+- how does it apply to circuits in the lab and measurement?
+- look up measurement of input and output impedance using resistors
+- i need better intuition of electrical circuits-->solve problems everyday
