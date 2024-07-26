@@ -62,7 +62,36 @@ power becomes time dependent so you have
 RMS (root mean squared) current and voltage, since we are concerned with sinuosidal currents adn voltages, their mean is 0, so to get an average value associated with the current over one cycle, we look at the sqrt of the mean of current square, sqrt(<I^2>)
 the usefulness of the RMS values is that dc power formula applies for the average power of resistive loads
 
+#### complex representation
+can use complex representation because of relationship between sin/cos and euler formula
+whats the relation between sin/cos function and complex numbers?
+
 
 ### steady state vs transient
 the steady state is the transient state when t-->infty or when t>>tau (the decay transient time)
 transient circuit usually have a switch
+
+
+### resistance and impedance
+understand resistance microscopically vs understanding resistance at a behavior level
+
+what does it mean that capacitor and inductor leads to a phase difference between the current and voltage while no phase difference for a resistor?
+what does it mean that the voltage and current have a phase difference, what are the physical consequences?
+
+power is dissipated in a resistor, capacitor and inductor stores the energy in E-field and B-field, respectively
+
+### practical application of electrical circuits theory
+identify the components
+first draw the circuit
+analyze the circuit
+run experiments if the analysis predicts the behavior the circuits
+
+**what type of intuition to develop about electrical circuits?**
+- what behaviors to expect from circuit X
+- numerical estimation
+- 
+
+### types of circuits
+make a list of all the most basic types of circuits with their associated behavior and their function/use
+eg. dc in series and parallel of one resistor and one capacitor
+eg. ac in series of resistor and inductor
