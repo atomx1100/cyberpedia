@@ -3,10 +3,17 @@
 goal for tonight: write about XRR and XRD in masters report
 updated goal: only focus on what is necessary to understand xrr and organize somewhere else what im not trying to understand in more depth, whats relevant right now is usefulness
 
-goal: understand the xrd system, understand what the alignmnent does, understand what yuming did, understand 0D detector, understand xrr and the data obtained by xrr, the meaning of the data and what i can estimate
+goal: understand the xrd system, understand what the alignmnent does, understand what yuming did, understand 0D detector, understand xrr and the data obtained by xrr, the meaning of the data and what i can estimate, understanding the physical compoenents used in the xrd
+
+so whats important is understanding how the components are installed to give good data, what is the ideal system which is experimentally tried to be achieved
+what determines the resolution?
+
+todo:
+- look at protoxrd emails
+- look at yuming emails
+- look at grazing xrd
 
 ## XRR notes
-
 todo:
 - map out the system and the parameters
 - look at the bragg reflection equation and understand what it means 
@@ -18,6 +25,12 @@ todo:
 3. receiving optics (see 2.6.4 in hardware manual, the RS position width determines the resolution)
 4. list all xrd parameters
 5. xrr theory and setup
+
+1. optics
+2. detector
+3. alignment/calibration
+4. grazing incidence
+5. xrr theory
 
 careful not to dig to deep in useless part
 
