@@ -3,7 +3,7 @@
 goal for tonight: write about XRR and XRD in masters report
 updated goal: only focus on what is necessary to understand xrr and organize somewhere else what im not trying to understand in more depth, whats relevant right now is usefulness
 
-goal: understand the xrd system, understand what the alignmnent does, understand what yuming did, understand 0D detector, understand xrr and the data obtained by xrr
+goal: understand the xrd system, understand what the alignmnent does, understand what yuming did, understand 0D detector, understand xrr and the data obtained by xrr, the meaning of the data and what i can estimate
 
 ## XRR notes
 
