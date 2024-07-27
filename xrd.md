@@ -49,9 +49,23 @@ careful not to dig to deep in useless part
 * what do the x-rays interact with when they are reflected?, matter interaction, type of scattering involved
 * why em wave must have a wavelength at least as short as the interatomic distance for probing a crystal?
 * whats the reason for the order of the optics? what if swapped DS and SS?
-* why does light diverges? 
+
+* why does light diverges?
+* how does the beam divergence affect the peak broadening?
+* given the focusing circle geometry, the beam converge to a single point on the detector, how do the divergent beam contribute to the detected beam intensity?
+* given ideal convergence of the diffracted beam, does this implies peak broadening due to the beam divergence?
+
+* what causes peak broadening?
 
 * is the role of the optics to bring the x-ray beam closer to its ideal case?
+
+* what are braggs law assumption and how does it differ in practice? udnerstanding how a practical system differ from the theory used to interpret the data, this is mostly understanding the origin of the features in data, comparing assumptions with reality/practice 
+* what has the size of the crystal to do with bragg law? (chatgpt mentionned finite size of crystal)
+
+ask chatgpt:
+- how does beam divergence in xrd affects peak broadening?
+
+
 
 **levels of abstraction**
 light-matter interaction
