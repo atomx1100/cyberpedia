@@ -49,6 +49,9 @@ careful not to dig to deep in useless part
 * what do the x-rays interact with when they are reflected?, matter interaction, type of scattering involved
 * why em wave must have a wavelength at least as short as the interatomic distance for probing a crystal?
 * whats the reason for the order of the optics? what if swapped DS and SS?
+* why does light diverges? 
+
+* is the role of the optics to bring the x-ray beam closer to its ideal case?
 
 **levels of abstraction**
 light-matter interaction
@@ -57,6 +60,9 @@ bragg equation level of understanding (see A&M)
 structure for xrd experiments:
 - approximation of bragg peaks using bragg equation (substrate and film)
 - finding reference of xrd data
+
+**Calculations, estimations and approximations**
+- calculation of beam divergence using $\alpha = \frac{D+S}{L}$ (see notes)
 
 masters report:
 - starting from xrd machine, describe the functionning of the xrd machine, describe how data are acquired, describe what the data means
