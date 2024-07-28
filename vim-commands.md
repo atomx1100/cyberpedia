@@ -32,4 +32,3 @@ ctrl-w, + : increase height
 ctrl-w, > : increase width
 ctrl-e : scroll the page up one line at a time (brings new lines visible)
 
-

@@ -87,3 +87,18 @@ structure for xrd experiments:
 
 masters report:
 - starting from xrd machine, describe the functionning of the xrd machine, describe how data are acquired, describe what the data means
+
+---
+braggs law is the basis of the xrd, it tells you that the interplanar distance between planes of a crystal is dependent on the angle at which x-rays are incident on the crystal 
+
+it tells you that the diffraction of x-rays with wavelength \lambda on some crystal with interplanar distance d, is dependent on the angle at which the incident rays are shined on the crystal
+
+then it is beam divergence and the geometry of the system
+
+intensity, relative intensity
+angle
+
+
+
+
+
