@@ -32,6 +32,10 @@ todo:
 4. grazing incidence
 5. xrr theory
 
+1. basic xrr theory
+2. detector
+3. aligment meaning
+
 careful not to dig to deep in useless part
 
 * why does the beam reflect of the sample? (index of refraction, density of sample)
@@ -57,6 +61,7 @@ careful not to dig to deep in useless part
 * why is the focusing condition important?
 * need to understand the role of the width of the pixel of the detector
 * what happens when you change the size of optics?
+* what does the x-rays are diffracted from in xrd? (the planes, the unit cell?)
 
 * what causes peak broadening?
 
@@ -73,6 +78,11 @@ ask chatgpt:
 - how does beam divergence in xrd affects peak broadening?
 
 
+xrr
+* whats the dependence of index of refraction and reflection on density?
+* see Fresnel equations
+* why are the periodic oscillations indicative of the thickness of the film?
+* does bragg still applies at low angles? (except for angles giving complex numbers how does it apply?)
 
 **levels of abstraction**
 light-matter interaction
