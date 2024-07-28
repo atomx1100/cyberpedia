@@ -64,6 +64,9 @@ careful not to dig to deep in useless part
 * what does the x-rays are diffracted from in xrd? (the planes, the unit cell?)
 
 * what causes peak broadening?
+* what peaks associated with the planes that are measured must have to do with the penetration depth and the transmission/reflectivity
+
+* understand the relation between xrd, planes of the crystal and unit cell
 
 * is the role of the optics to bring the x-ray beam closer to its ideal case?
 
@@ -83,6 +86,8 @@ xrr
 * see Fresnel equations
 * why are the periodic oscillations indicative of the thickness of the film?
 * does bragg still applies at low angles? (except for angles giving complex numbers how does it apply?)
+* whats the condition for xrr to xrd transition? (try a scan from 2theta=0 to 20 deg)
+* see exercise 3.1 in Nielsen
 
 **levels of abstraction**
 light-matter interaction
