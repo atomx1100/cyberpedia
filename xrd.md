@@ -28,7 +28,7 @@ todo:
 
 1. optics
 2. detector
-3. alignment/calibration
+3. alignment/calibration, role of knife edge
 4. grazing incidence
 5. xrr theory
 
@@ -64,6 +64,9 @@ careful not to dig to deep in useless part
 * what are braggs law assumption and how does it differ in practice? udnerstanding how a practical system differ from the theory used to interpret the data, this is mostly understanding the origin of the features in data, comparing assumptions with reality/practice 
 * what has the size of the crystal to do with bragg law? (chatgpt mentionned finite size of crystal)
 
+numerical understanding:
+* what divergence angle is necessary for good resolution?
+* 
 
 ask chatgpt:
 - how does beam divergence in xrd affects peak broadening?
