@@ -54,6 +54,8 @@ careful not to dig to deep in useless part
 * how does the beam divergence affect the peak broadening?
 * given the focusing circle geometry, the beam converge to a single point on the detector, how do the divergent beam contribute to the detected beam intensity?
 * given ideal convergence of the diffracted beam, does this implies peak broadening due to the beam divergence?
+* why is the focusing condition important?
+* need to understand the role of the width of the pixel of the detector
 
 * what causes peak broadening?
 
@@ -61,6 +63,7 @@ careful not to dig to deep in useless part
 
 * what are braggs law assumption and how does it differ in practice? udnerstanding how a practical system differ from the theory used to interpret the data, this is mostly understanding the origin of the features in data, comparing assumptions with reality/practice 
 * what has the size of the crystal to do with bragg law? (chatgpt mentionned finite size of crystal)
+
 
 ask chatgpt:
 - how does beam divergence in xrd affects peak broadening?
