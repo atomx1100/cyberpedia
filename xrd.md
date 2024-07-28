@@ -56,6 +56,7 @@ careful not to dig to deep in useless part
 * given ideal convergence of the diffracted beam, does this implies peak broadening due to the beam divergence?
 * why is the focusing condition important?
 * need to understand the role of the width of the pixel of the detector
+* what happens when you change the size of optics?
 
 * what causes peak broadening?
 
