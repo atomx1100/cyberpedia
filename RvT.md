@@ -8,7 +8,8 @@ think about what i can add in my masters report
 1. northon+find basic patterns
 2. apply to what im doing
 3. memorize rvt system
- 
+
+should i do exercises?
 
 todo:
 - look in white notebook for questions to answer
