@@ -36,6 +36,9 @@ todo:
 2. detector
 3. alignment meaning
 
+1. read 3.7 in cullity (peak width)
+2. better understand xrr theory
+
 **missing**
 - equation for thickness of film from xrr data, or relation period with thickness
 - understanding of xrr in terms of braggs law
