@@ -41,6 +41,11 @@ todo:
 3. look at xrr alignment procedure
 4. look at xrr for rigaku
 
+1. plan for using xrd tomorrow
+2. understand data and whats missing from getting good data
+3. write report
+4. understand data analysis
+
 **missing**
 - equation for thickness of film from xrr data, or relation period with thickness
 - understanding of xrr in terms of braggs law
@@ -124,7 +129,22 @@ then it is beam divergence and the geometry of the system
 intensity, relative intensity
 angle
 
+---
+for normal scan, increase the power of the source
 
+safe to do directly expose the detector to the source, i.e. no radiation damage, how can i know at what intensity/power setting i can damage the detector
 
+why is saturation an issue?, detector saturation only means that cant detect more photons because the amount of photons hitting the detector is already maximal
 
+**the goal is to get good XRR data**
+develop a procedure to take good data
+understand what the data are saying: the pattern dep on the angle, how the pattern changes as different parameters are used, 
+basically, understand how the data changes when any variable is changed
+-->ideally what do i want to achieve? 
+what is limiting the data im taking?
+SNR
+
+1. what determines xrd resolution?
+2. list the possible change that can be done to the system (parameters, alignment, hardware change, modes of operation)
+3. understand what the changes do to the data
 
