@@ -6,7 +6,7 @@ j : move cursor down
 k : move cursor up
 l : move cursor right
 
-*limited by active lines (end-of-buffer markers)*
+*limited by active lines (end-of-buffer markers) and the lines of the screen*
 H : move to top of screen
 M : move to middle of screen
 L : move to bottom of screen

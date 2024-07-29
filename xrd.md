@@ -34,7 +34,11 @@ todo:
 
 1. basic xrr theory
 2. detector
-3. aligment meaning
+3. alignment meaning
+
+**missing**
+- equation for thickness of film from xrr data, or relation period with thickness
+- understanding of xrr in terms of braggs law
 
 careful not to dig to deep in useless part
 
@@ -62,9 +66,11 @@ careful not to dig to deep in useless part
 * need to understand the role of the width of the pixel of the detector
 * what happens when you change the size of optics?
 * what does the x-rays are diffracted from in xrd? (the planes, the unit cell?)
+* how is refraction taken into account for xrd? (see chap. 6 in nielsen)
 
 * what causes peak broadening?
 * what peaks associated with the planes that are measured must have to do with the penetration depth and the transmission/reflectivity
+* why does the Soller slit improves the beam shape?, whats the difference between using a SS and no SS
 
 * understand the relation between xrd, planes of the crystal and unit cell
 
