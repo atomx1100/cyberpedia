@@ -38,6 +38,8 @@ todo:
 
 1. read 3.7 in cullity (peak width)
 2. better understand xrr theory
+3. look at xrr alignment procedure
+4. look at xrr for rigaku
 
 **missing**
 - equation for thickness of film from xrr data, or relation period with thickness
