@@ -142,9 +142,13 @@ ROI should be centered in the detector (for 640 channels, the center is 320)
 develop a procedure to take good data
 understand what the data are saying: the pattern dep on the angle, how the pattern changes as different parameters are used, 
 basically, understand how the data changes when any variable is changed
--->ideally what do i want to achieve? 
+-->ideally what do i want to achieve?, why are the current data bad? 
 what is limiting the data im taking?
 SNR
+i want to increase the intensity of the reflected beam relative to the background signal
+limit background by having the beam more centered on the sample, using small DS, using knife edge
+
+maximize intensity, minimize background
 
 1. what determines xrd resolution? (look at braggs law, detector, slits used)
 2. list the possible change that can be done to the system (parameters, alignment, hardware change, modes of operation)
@@ -156,6 +160,9 @@ SNR
 - 0D detector mode (or setting the ROI to 1 channel)
 - voltage, current of source
 
+- divergence slit width
+- knife edge
+
 * dwell time
 * step size
 * ROI
@@ -164,4 +171,14 @@ SNR
 - beam alignment (DS)
 - knife edge height
 - height sample stage
-- 
+
+stage concentricity (p.1)
+divergence slit housing height adjustement (p.9)-->asymmetric peak broadening (peak shape)
+diffracted side optics height adjustment (SPD only) (p.11)
+zero angle adjustement (p.14)-->constant offset at all angles
+detector distance (Dectris only) (p.17)
+collecting a standard scan using LaB6 (p.18)-->allows to compare current data with properly aligned data to tell what needs alignment
+
+
+**procedure**
+goal-->gather quickly the minimum amount of information about the state of the system to make an adjustement and continue the loop until looks good
