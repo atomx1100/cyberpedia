@@ -136,6 +136,8 @@ safe to do directly expose the detector to the source, i.e. no radiation damage,
 
 why is saturation an issue?, detector saturation only means that cant detect more photons because the amount of photons hitting the detector is already maximal
 
+ROI should be centered in the detector (for 640 channels, the center is 320)
+
 **the goal is to get good XRR data**
 develop a procedure to take good data
 understand what the data are saying: the pattern dep on the angle, how the pattern changes as different parameters are used, 
@@ -144,7 +146,22 @@ basically, understand how the data changes when any variable is changed
 what is limiting the data im taking?
 SNR
 
-1. what determines xrd resolution?
+1. what determines xrd resolution? (look at braggs law, detector, slits used)
 2. list the possible change that can be done to the system (parameters, alignment, hardware change, modes of operation)
 3. understand what the changes do to the data
+4. look at XRR alignment steps
 
+
+- setting the zero angle
+- 0D detector mode (or setting the ROI to 1 channel)
+- voltage, current of source
+
+* dwell time
+* step size
+* ROI
+* angle range
+
+- beam alignment (DS)
+- knife edge height
+- height sample stage
+- 
