@@ -117,7 +117,7 @@ structure for xrd experiments:
 - calculation of beam divergence using $\alpha = \frac{D+S}{L}$ (see notes)
 
 masters report:
-- starting from xrd machine, describe the functionning of the xrd machine, describe how data are acquired, describe what the data means
+- starting from xrd machine, describe the functionning of the xrd machine, describe how data are acquired (methodology), describe what the data means
 
 ---
 braggs law is the basis of the xrd, it tells you that the interplanar distance between planes of a crystal is dependent on the angle at which x-rays are incident on the crystal 
