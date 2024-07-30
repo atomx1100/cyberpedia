@@ -182,3 +182,9 @@ collecting a standard scan using LaB6 (p.18)-->allows to compare current data wi
 
 **procedure**
 goal-->gather quickly the minimum amount of information about the state of the system to make an adjustement and continue the loop until looks good
+*requires i understand what the different patterns found in the data mean*, relate the data to the experimental setup, what pattern is an artifact of the setup?
+
+the important question is: what can be adjusted? (and what is left fixed once the right parameter is found?)
+- sample height
+look into xrr alignment 
+
