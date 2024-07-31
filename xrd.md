@@ -188,3 +188,5 @@ the important question is: what can be adjusted? (and what is left fixed once th
 - sample height
 look into xrr alignment 
 
+
+what are the steps starting with placing the sample on the putty to obtain xrd data?
