@@ -2,7 +2,7 @@
 
 time
 2-9 sleep
-9-1030 morning
+9-1030 morning (eat, meditation, leave plants near window)
 1030 lab
 1800 stop
 1820 home
