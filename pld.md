@@ -20,6 +20,8 @@ making summarizing notes before writing to better organize the information
 2. find connections
 3. figure out what to write
 4. then can relate to methodology
+5. why use the setup for growing oxides (why wavelength, etc)?
+
 
 ### questions
 **laser**
