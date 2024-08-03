@@ -11,9 +11,15 @@ maybe good idea to start with methodology first and then explain the process
 
 dont have much math to accompany pld, mostly about processes involved and considerations for growth of oxides-->why is this? because use empirically, not doing research on it, and replace the missing math by characterization
 
+1. look at notes, organize notes
 
 write down all parameters of each component, just focus on listing the facts and then write 
 making summarizing notes before writing to better organize the information
+
+1. list processes, list components, list parameters
+2. find connections
+3. figure out what to write
+4. then can relate to methodology
 
 ### questions
 **laser**
@@ -22,6 +28,8 @@ making summarizing notes before writing to better organize the information
 **target**
 - what is a target?
 
+**vacuum chamber**
+- why choose this base pressure?
 
 ### report outline questions
 - explain epitaxial and thin film?
