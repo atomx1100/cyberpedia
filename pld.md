@@ -31,5 +31,13 @@ making summarizing notes before writing to better organize the information
 **vacuum chamber**
 - why choose this base pressure?
 
+**laser ablation**
+- laser: whats the output of a laser?
+- what happens in between pulses?
+- how does electron-phonon coupling transfers heat to the target? (phonon, i.e. lattice vibrations, energy is related to the lattice temperature which is a measure of the average kinetic energy of the atoms) 
+
+**plume**
+- whats the plasma plume composition? (see charles thesis p.55), plasma plume, so whats the composition of a plasma
+
 ### report outline questions
 - explain epitaxial and thin film?
