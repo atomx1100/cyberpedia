@@ -4,7 +4,8 @@ goal: write at least a page on pld
 
 plan:
 1. look at notes on system, draw system, write about system components
-2. outline of what to write about
+2. write procedure
+3. outline of what to write about
 
 maybe good idea to start with methodology first and then explain the process
 
