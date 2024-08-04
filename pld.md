@@ -43,6 +43,7 @@ apply the pld theory directly to ybco to understand why the parameters are chose
 - how does electron-phonon coupling transfers heat to the target? (phonon, i.e. lattice vibrations, energy is related to the lattice temperature which is a measure of the average kinetic energy of the atoms) 
 - what about photon-phonon interaction?
 - what happens during evaporation
+- laser absorption: what electrons are excited when the photons first interact with the electrons of the target material?
 
 **plume**
 - whats the plasma plume composition? (see charles thesis p.55), plasma plume, so whats the composition of a plasma
