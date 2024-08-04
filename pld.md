@@ -51,9 +51,43 @@ apply the pld theory directly to ybco to understand why the parameters are chose
 - laser absorption: what electrons are excited when the photons first interact with the electrons of the target material?
 - for ultra short pulses, why do you also need a higher laser frequency?
 - how does the plume size affects the growth? and the plume size is related to the spot size of the laser
+- 
+
+**plasma plume formation and expansion**
+- whats the time scale of the process?
+- whats the spatial distance of the vapour from the target?
+- when is the vapour transition to plasma? is there some precise moment?
 
 **plume**
 - whats the plasma plume composition? (see charles thesis p.55), plasma plume, so whats the composition of a plasma
+- 
 
 ### report outline questions
 - explain epitaxial and thin film?
+
+
+
+## to understand
+- read chap.5 in eason
+- what are the unwanted effects?
+- compare the ablation rate with the deposition rate
+
+---
+
+plume formation and expansion
+
+material ejection (evapouration of the target material): electrons, ions, neutral atoms (ideal vapour composition) are ejected, i.e. free particles moving away from the solid, from the target material after the laser hits the target 
+the ejected material have KE towards the substrate with energy comparable to their bond strength 
+this makes the inital vapour above the target
+
+* can describe the ratio of ions to neutral atoms in the plume using the saha equatio which bridges the gap between a gas and a plasma since plasma is a gas of charged particles (ions, electrons)
+  
+*whats in practice in the vapour: more than one species (mix of molecules, atoms, ions, clusters, particulates-->see p.2309 in practical review)?*
+
+laser absorption of the initial vapour plume: the initial vapour coming from the target screen the laser beam partly resulting in the transfer of energy from the laser to the particles of the vapour, i.e. laser absorption, via photoionization and inverse Bremsstrahlung effect. The consequence of the laser absoprtion is an increase in the ionization of the vapour plume and an increase in the electron temperature
+
+increase of vapour density correlated with increase in collisions in the vapour plume (*caused by what?*-->continuous material ejection) and electron temperature-->formation of an electrostatic double layer called Knudsen layer
+
+expansion of plume (during the pulse): described by assuming a thermal equilibrium between the laser absorption in the vapour and the injection of species from material ejection of the target
+
+*different phases of expansion*: initial expansion in a collisional manner (*why?*) contributing to increase in ionisation and charge separation, adiabatic expansion
