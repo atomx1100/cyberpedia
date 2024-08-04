@@ -22,8 +22,12 @@ making summarizing notes before writing to better organize the information
 4. then can relate to methodology
 5. why use the setup for growing oxides (why wavelength, etc)?
 
+apply the pld theory directly to ybco to understand why the parameters are chosen and what effects dominate
 
 ### questions
+**general**
+- what do i care about pld in my research?
+
 **laser**
 - why pulsed laser?
 
@@ -37,6 +41,8 @@ making summarizing notes before writing to better organize the information
 - laser: whats the output of a laser?
 - what happens in between pulses?
 - how does electron-phonon coupling transfers heat to the target? (phonon, i.e. lattice vibrations, energy is related to the lattice temperature which is a measure of the average kinetic energy of the atoms) 
+- what about photon-phonon interaction?
+- what happens during evaporation
 
 **plume**
 - whats the plasma plume composition? (see charles thesis p.55), plasma plume, so whats the composition of a plasma
