@@ -24,6 +24,11 @@ making summarizing notes before writing to better organize the information
 
 apply the pld theory directly to ybco to understand why the parameters are chosen and what effects dominate
 
+1. finish writing on laser ablation
+2. notes on plume expansion
+3. write on plume expansion
+4. write about laser 
+
 ### questions
 **general**
 - what do i care about pld in my research?
@@ -44,6 +49,8 @@ apply the pld theory directly to ybco to understand why the parameters are chose
 - what about photon-phonon interaction?
 - what happens during evaporation
 - laser absorption: what electrons are excited when the photons first interact with the electrons of the target material?
+- for ultra short pulses, why do you also need a higher laser frequency?
+- how does the plume size affects the growth? and the plume size is related to the spot size of the laser
 
 **plume**
 - whats the plasma plume composition? (see charles thesis p.55), plasma plume, so whats the composition of a plasma
