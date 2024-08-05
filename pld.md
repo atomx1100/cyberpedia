@@ -61,7 +61,7 @@ apply the pld theory directly to ybco to understand why the parameters are chose
 
 **plume**
 - whats the plasma plume composition? (see charles thesis p.55), plasma plume, so whats the composition of a plasma
-- 
+- whats the shape of the plume and what determines it? 
 
 ### report outline questions
 - explain epitaxial and thin film?
