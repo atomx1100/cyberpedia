@@ -56,7 +56,8 @@ apply the pld theory directly to ybco to understand why the parameters are chose
 **plasma plume formation and expansion**
 - whats the time scale of the process?
 - whats the spatial distance of the vapour from the target?
-- when is the vapour transition to plasma? is there some precise moment?
+- when is the vapour transition to plasma, i.e. gas phase-->plasma phase? is there some precise moment?
+- how does the plume expansion affects the film growth?
 
 **plume**
 - whats the plasma plume composition? (see charles thesis p.55), plasma plume, so whats the composition of a plasma
@@ -64,7 +65,6 @@ apply the pld theory directly to ybco to understand why the parameters are chose
 
 ### report outline questions
 - explain epitaxial and thin film?
-
 
 
 ## to understand
@@ -76,18 +76,37 @@ apply the pld theory directly to ybco to understand why the parameters are chose
 
 plume formation and expansion
 
+during pulse
+1. material ejected (composition), initial vapour formation
+2. knudsen layer and laser absorption (density, collision, ionization+electron heating, thermalized, different velocity)
+3. expanding plasma, separation of charge, electric field, ions accelerated, electrons cant escape the plume
+after the pulse
+1. no more energy input to sustain plasma and material ejection
+2. direciton of plume acceleration determined by initial plume direction, ions accelerated by double layer
+3. acceleration rate decreases as the plume expand to asymptotically approach a constant velocity, plume expand with angular distr
+
+
+
 material ejection (evapouration of the target material): electrons, ions, neutral atoms (ideal vapour composition) are ejected, i.e. free particles moving away from the solid, from the target material after the laser hits the target 
 the ejected material have KE towards the substrate with energy comparable to their bond strength 
-this makes the inital vapour above the target
+this makes up the inital vapour above the target
 
 * can describe the ratio of ions to neutral atoms in the plume using the saha equatio which bridges the gap between a gas and a plasma since plasma is a gas of charged particles (ions, electrons)
   
 *whats in practice in the vapour: more than one species (mix of molecules, atoms, ions, clusters, particulates-->see p.2309 in practical review)?*
 
+*during laser pulse*
 laser absorption of the initial vapour plume: the initial vapour coming from the target screen the laser beam partly resulting in the transfer of energy from the laser to the particles of the vapour, i.e. laser absorption, via photoionization and inverse Bremsstrahlung effect. The consequence of the laser absoprtion is an increase in the ionization of the vapour plume and an increase in the electron temperature
 
 increase of vapour density correlated with increase in collisions in the vapour plume (*caused by what?*-->continuous material ejection) and electron temperature-->formation of an electrostatic double layer called Knudsen layer
 
 expansion of plume (during the pulse): described by assuming a thermal equilibrium between the laser absorption in the vapour and the injection of species from material ejection of the target
 
-*different phases of expansion*: initial expansion in a collisional manner (*why?*) contributing to increase in ionisation and charge separation, adiabatic expansion
+*different phases of expansion*: 
+1. initial expansion in a collisional manner (*why?*) contributing to increase in ionisation and charge separation
+2. adiabatic expansion
+
+
+
+
+
