@@ -59,6 +59,9 @@ apply the pld theory directly to ybco to understand why the parameters are chose
 - when is the vapour transition to plasma, i.e. gas phase-->plasma phase? is there some precise moment?
 - how does the plume expansion affects the film growth?
 
+background gas
+- what pressure regime is the pressure used for ybco growth?-->200mTorr is at the bdy of the transition regime and diffusion-like regime
+
 **plume**
 - whats the plasma plume composition? (see charles thesis p.55), plasma plume, so whats the composition of a plasma
 - whats the shape of the plume and what determines it? 
@@ -105,6 +108,39 @@ expansion of plume (during the pulse): described by assuming a thermal equilibri
 *different phases of expansion*: 
 1. initial expansion in a collisional manner (*why?*) contributing to increase in ionisation and charge separation
 2. adiabatic expansion
+3. 
+
+plume expansion dependent on:
+- size of ablation spot
+- size of constituents ions
+- background pressure
+
+**Interaction of plume with background gas**
+introducing a background gas means that the species of the expanding plume will collision with the gas
+
+2 main effects of background gas:
+collisions implies exchange of KE-->reducing the velocity of the plume (contrls the kinetic energy of the arriving species to the substrate)
+and 
+reaction with the species of the plume-->formation of molecules or cluster in the plume (incorporation of other elements to the film)
+and 
+incorporation of the gas molecules in the plume-->incorporation of other elements to the film
+
+Effect on film growth:
+- composition: incorporate new elements if the gas moleucles are reactive
+- thickness: deposition rate by controlling KE of arriving species in plume 
+  
+Choose:
+- pressure-->change mean free path compared to target-substrate distance since if MFP<t-s distance-->little interaction going on
+- gas species 
+
+
+
+
+
+
+
+
+
 
 
 
