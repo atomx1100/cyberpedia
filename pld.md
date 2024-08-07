@@ -58,9 +58,11 @@ apply the pld theory directly to ybco to understand why the parameters are chose
 - whats the spatial distance of the vapour from the target?
 - when is the vapour transition to plasma, i.e. gas phase-->plasma phase? is there some precise moment?
 - how does the plume expansion affects the film growth?
+- how does the kinetic energy of the plume affects the deposition?
 
 background gas
 - what pressure regime is the pressure used for ybco growth?-->200mTorr is at the bdy of the transition regime and diffusion-like regime
+- the mass of the species in the target (important for plume)
 
 **plume**
 - whats the plasma plume composition? (see charles thesis p.55), plasma plume, so whats the composition of a plasma
@@ -129,7 +131,7 @@ Effect on film growth:
 - composition: incorporate new elements if the gas moleucles are reactive
 - thickness: deposition rate by controlling KE of arriving species in plume 
   
-Choose:
+dof/parameters:
 - pressure-->change mean free path compared to target-substrate distance since if MFP<t-s distance-->little interaction going on
 - gas species 
 
