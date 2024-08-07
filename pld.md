@@ -68,6 +68,10 @@ background gas
 - whats the plasma plume composition? (see charles thesis p.55), plasma plume, so whats the composition of a plasma
 - whats the shape of the plume and what determines it? 
 
+**film growth and nucleation**
+- why does small lattice mismatch allows epitaxial growth?
+- whats the effect of the deposition rate on the nucleation?
+
 ### report outline questions
 - explain epitaxial and thin film?
 
