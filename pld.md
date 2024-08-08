@@ -71,9 +71,12 @@ background gas
 **film growth and nucleation**
 - why does small lattice mismatch allows epitaxial growth?
 - whats the effect of the deposition rate on the nucleation?
+- what determines whether the atoms are more strongly bounded to the substrate than to each other in growth?
+- whats a thin film, why thin, whats the thickness of thin films?
+- why use a substrate when growing a thin film?
 
 ### report outline questions
-- explain epitaxial and thin film?
+- explain epitaxial and thin [film](film)?
 
 
 ## to understand
@@ -140,15 +143,20 @@ dof/parameters:
 - gas species 
 
 
+---
+
+film growth
+
+basic concepts:
+- minimizing energy 
+
+layer growth or Frank-van der Merwe growth-->growth mode leading to epitaxial film
 
 
-
-
-
-
-
-
-
-
+epitaxial film, grow a crystal structure on top of another crystal structure 
+the film is grown with the intent of having specific properties
+atoms are first incident on the substrate and so interact with the surface atoms of the substrate by virtue of the coulomb interaction showing up in the hamiltonian of the problem in qm, then to minimize energy, the wavefunction overlap occur such that the electrons of the 2 atoms are shared   
+then as layers are formed, 
+there is also a competition between the energy of the configuration between susbtrate-atoms interactions and atom-atom interactions resulting in the formation of unit cell
 
 
