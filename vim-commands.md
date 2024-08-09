@@ -28,6 +28,8 @@ crtl-ws : split windows
 ctrl-wv : split windows vertically
 ctrl-wx : swap current windows with the next one
 
+ctrl-w= : make all windows equal height
+
 ctrl-w, + : increase height
 ctrl-w, > : increase width
 ctrl-e : scroll the page up one line at a time (brings new lines visible)

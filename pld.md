@@ -166,7 +166,10 @@ there is also a competition between the energy of the configuration between susb
 
 cleaving-->what atoms are left at the surface?
 
-epitaxial growth is assured if there is no lattice mismatch (what are counter examples?, why is that?), 
+assuming no other factors affect the growth, epitaxial growth is assured if there is no lattice mismatch (what are counter examples?, why is that? something to do with minimizing surface energy and bonding), thus lattice mismatch is what leads to deviations from the growth of a perfectly epitaxial film 
+
+lattice mismatch is related to interatomic spacing matching
+
 what is the substrate from the point of view of the deposited atoms? how crucial is the first deposited layer compared to the layer N+1 where N>0?
 
 what happens if there is a lattice mismatch?
