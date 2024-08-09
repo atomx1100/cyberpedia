@@ -147,6 +147,11 @@ dof/parameters:
 
 film growth
 
+-->develop a model to think about how to grow a film on top of another crystal
+information to know about the system:
+- lattice structures
+- lattice parameters
+
 basic concepts:
 - minimizing energy 
 
@@ -158,5 +163,17 @@ the film is grown with the intent of having specific properties
 atoms are first incident on the substrate and so interact with the surface atoms of the substrate by virtue of the coulomb interaction showing up in the hamiltonian of the problem in qm, then to minimize energy, the wavefunction overlap occur such that the electrons of the 2 atoms are shared   
 then as layers are formed, 
 there is also a competition between the energy of the configuration between susbtrate-atoms interactions and atom-atom interactions resulting in the formation of unit cell
+
+cleaving-->what atoms are left at the surface?
+
+epitaxial growth is assured if there is no lattice mismatch (what are counter examples?, why is that?), 
+what is the substrate from the point of view of the deposited atoms? how crucial is the first deposited layer compared to the layer N+1 where N>0?
+
+what happens if there is a lattice mismatch?
+why can lattice fitting arguments be used to predict the epitaxial relationship between substrate and film?
+what are the other factors that can affect epitaxial growth?
+
+defects:
+-  
 
 
